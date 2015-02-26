@@ -1,0 +1,21 @@
+{
+  "name": "compromisos",
+  "plural": "compromisos",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "properties": {
+    "fecha": {
+      "type": "string"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "componente": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "largos",
+  "plural": "largos",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "properties": {
+    "componente": {
+      "type": "string"
+    },
+    "tipo": {
+      "type": "string"
+    },
+    "inicio": {
+      "type": "string"
+    },
+    "fin": {
+      "type": "string"
+    },
+    "observaciones": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

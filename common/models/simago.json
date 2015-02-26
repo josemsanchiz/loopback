@@ -1,0 +1,27 @@
+{
+  "name": "simago",
+  "plural": "simago",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "properties": {
+    "fecha": {
+      "type": "string"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "hora": {
+      "type": "string"
+    },
+    "sitio": {
+      "type": "string"
+    },
+    "precio": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
